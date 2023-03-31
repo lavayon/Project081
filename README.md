@@ -53,7 +53,7 @@ Nope, nope. Wrong place for that.
 
 ## Credit
 
-See our [website](https://speedie.gq/projects/project081.php) for up-to-date credits.
+See speediegq's [website](https://speedie.gq/projects/project081.php) for up-to-date credits.
 
 ## Licensing
 
