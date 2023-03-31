@@ -2,7 +2,7 @@
 
 # Project 081
 
-**NOTE: Project 081 is no longer being worked on. I know this may be disappointing for some of you, but I do not have time to maintain a project I do not use, and a project which is never going to be perfect anyway. I am going to keep the project up for anyone who wants to use it, but I will not be providing support to anyone requesting it.**
+**NOTE: Certain features on Macbook3,1/4,1 will not work until updated to 10.4.11 - The 10.4.11 Installer will be included on the root of the installation media*
 
 Project 081 is a simple to use unofficial Mac OS X modification which can install Tiger on some specific models. (see support below)
 
@@ -43,6 +43,7 @@ If it's not one of these, it's either too new or natively supported.
 - MacBookPro4,1 users: Fails to boot the installer, see issue #3
 - MacBookAir1,1, MacBook3,1, MacBook4,1, XServe2,1: No GPU Acceleration which may cause minor slowdown with GPU heavy tasks.
 - iMac8,1, maybe MacBookPro4,1: Installing the AirPort 2010 update breaks ethernet and wireless.
+- MacBook3,1, Sound/Multitouch Gestures not working without the 10.4.11 update. 
 
 ## Hackintosh
 
