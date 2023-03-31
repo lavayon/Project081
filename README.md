@@ -2,7 +2,7 @@
 
 # Project 081
 
-# I am ONLY modifiying this project for personal and preservational uses, and to keep this rad project alive as long as possible.
+# I am ONLY modifiying this project for personal and preservational uses, and to keep this great project alive as long as possible.
 
 **NOTE: Certain features on Macbook3,1/4,1 will not work until updated to 10.4.11 - The 10.4.11 Installer will be included on the root of the installation media*
 
